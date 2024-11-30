@@ -1,0 +1,6 @@
+{
+    "id": 1,
+    "name": "Alice",
+    "ages": 30,
+    "hobbies": ["Reading", "Traveling", "Swimming"]
+}

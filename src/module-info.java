@@ -4,8 +4,9 @@
 /**
  * 
  */
-module exercise7 {
+module tamrin1 {
+	requires java.logging;
 	requires java.sql;
-	exports exercise7.json to com.fasterxml.jackson.databind;	
 	requires com.fasterxml.jackson.databind;
+	exports tamrin1.session7.jsons to com.fasterxml.jackson.databind;	
 }
